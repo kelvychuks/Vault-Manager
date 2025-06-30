@@ -1,0 +1,23 @@
+[
+  {
+    "userId": "5fd7ab33-63f3-4c84-8a50-2e829168c7e2",
+    "properties": {
+      "school": "unn",
+      "color": "red"
+    }
+  },
+  {
+    "userId": "d9c0a57b-d6fc-45d5-bc77-9e9f47b8494e",
+    "properties": {
+      "car": "toyota camry",
+      "school": "unn"
+    }
+  },
+  {
+    "userId": "e256cfe4-baab-4e43-8b93-4e42a58e8bce",
+    "properties": {
+      "car": "toyota",
+      "school": "unizik"
+    }
+  }
+]
