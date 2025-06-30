@@ -62,13 +62,6 @@ Here's how user data and properties are stored in users.json:
   }
 ]
 
-json
-Copy
-Edit
-
-
 🧑‍💻 Author
 Kelvin Nwachukwu
-
-GitHub
 
